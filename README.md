@@ -11,7 +11,6 @@ O objetivo deste repositório é consolidar conceitos essenciais para a constru�
 - Variáveis e tipos de dados
 - Operadores lógicos e aritméticos
 - Entrada e saída de dados
-- Funções
 - Resolução de problemas práticos
 
 ## 🎯 Objetivo
